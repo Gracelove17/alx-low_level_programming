@@ -1,0 +1,1 @@
+A project to write scripts that runs a C file, compiles a C file but does not link, generating an assemble code, compiling a  file, writing a progam that prints and a program that prints the size of various types on the communicate
