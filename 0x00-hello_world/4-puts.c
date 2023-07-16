@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- *main - a program to print a text
+ *main - entry point
  *
  *Return: 0 is success
  */
